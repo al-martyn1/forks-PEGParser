@@ -1,2 +1,7 @@
 build*
-.vscode
+/.build
+/.out
+/.vs
+*.user
+*.log
+/.set_msvc.bat
